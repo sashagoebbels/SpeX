@@ -1,0 +1,18 @@
+/* XPM */
+static char *open_icon[] = {
+/* width height num_colors chars_per_pixel */
+"     8     8        3            1",
+/* colors */
+". c None",
+"# c #000000",
+"a c #7592ff",
+/* pixels */
+"........",
+"........",
+"........",
+"########",
+"#aaaaaa#",
+".#aaaa#.",
+"..#aa#..",
+"...##..."
+};
